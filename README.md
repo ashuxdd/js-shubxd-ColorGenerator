@@ -27,5 +27,5 @@ This project demonstrates random number generation, DOM updates, and user intera
 - `script.js` – logic for generating and applying colors
 
 ## Author
-- Ashu  
+- Shubrant Singh Naruka
 - BCA 3rd Semester
